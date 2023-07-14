@@ -19,4 +19,4 @@ a.each_with_index do |value, i|
     break
   end
 end
-puts a
+puts a.sum
